@@ -1,0 +1,2 @@
+/* Type cast for the gethostbyname() argument */
+#cmakedefine USE_GCC
